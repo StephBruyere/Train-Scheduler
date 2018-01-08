@@ -6,3 +6,5 @@ Application used to show schedule of trains coming and going through the schedul
 * Javascript / JQuery
 * Moment.js
 * Bootstrap
+
+![demo](traintrack.gif)
